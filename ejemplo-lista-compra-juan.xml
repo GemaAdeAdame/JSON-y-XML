@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <supermercados>
+    <nombre>Carrefour Market</nombre>
+    <direccion>Av. de los Planetas, 42, 28983 Parla, Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.22351812890145</latitud>
+      <longitud>-3.7587318579976454</longitud>
+    </geolocalizacion>
+    <productos>
+      <nombre>Café</nombre>
+      <marca>Nescafé</marca>
+      <oferta>true</oferta>
+      <periodo_oferta>
+        <inicio>2023-04-03</inicio>
+        <fin>2023-04-10</fin>
+      </periodo_oferta>
+      <habitual>true</habitual>
+      <unidades>1</unidades>
+      <cantidad>200</cantidad>
+      <unidad_medida>gramos</unidad_medida>
+      <precio>2.99</precio>
+      <adquirido>true</adquirido>
+      <nombre_específico>Café soluble descafeinado Carrefour 200g</nombre_específico>
+    </productos>
+  </supermercados>
+</root>
